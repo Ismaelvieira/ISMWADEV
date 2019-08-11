@@ -2,5 +2,5 @@
 	"version": "ISM-WA v3.0",
 	"url_download": "https://ismwa.blogspot.com/2019/07/ismwa-30.html",
 	"changelog": "Atualização Base\nCorrigido Problema Imagem na Tela Inicial\nExclusivo: Saber o status excluído (🚫 ao lado do tempo)!\nExclusivo: Brinde online personalizado! Ativar para pessoas específicas (encontre-o no perfil de contato)\nAdicionado: Opção para fixar a descrição do grupo ao chat (menu de 3 pontos do chat> Descrição do grupo)\nAdicionado Alterar a cor do ícone de msg apagada\nAdicionado Suporte para baixar temas com papel de parede Tela Inicial\n[ALERTA] Anti-Delete para Mensagens e Status por padrão (desligue se quiser).\nWhatsApp AppLock\nOutras correções de bugs e melhorias!",
-	"version_code": 5
+	"version_code": 6
 }
