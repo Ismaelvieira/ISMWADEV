@@ -1,1 +1,0 @@
-{'num':'1', 'msgs':'\nGVWhatsApp!\nObrigado por usar\n'}
