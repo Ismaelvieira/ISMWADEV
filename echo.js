@@ -1,0 +1,1 @@
+{"records":[{"version":"DELTA-YOWA v2.2.0","code":3,"url":"https://gvwhatasapp.blogspot.com/p/gv-update.html","changelog":"⦿ Auto Reply - ⦿ Search Color - ⦿ Row Height - ⦿ Fix Home Wallpaper - ⦿ Fix Online, Last Seen Color "}]}
