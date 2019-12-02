@@ -1,1 +1,1 @@
-{"records":[{"version":"GVWA v19.12","code":1,"url":"https://gvwhatasapp.blogspot.com/p/gv-update.html","changelog":"⦿ Auto Reply - ⦿ Search Color - ⦿ Row Height - ⦿ Fix Home Wallpaper - ⦿ Fix Online, Last Seen Color "}]}
+{"records":[{"version":"GVWA v19.12","code":4,"url":"https://gvwhatasapp.blogspot.com/p/gv-update.html","changelog":"⦿ Auto Reply - ⦿ Search Color - ⦿ Row Height - ⦿ Fix Home Wallpaper - ⦿ Fix Online, Last Seen Color "}]}
