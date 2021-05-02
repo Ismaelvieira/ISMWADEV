@@ -1,5 +1,5 @@
 {
-	"version": "8.3",
+	"version": "12.0",
 	"changelog": "— Added Instander menu (download; preview; share a direct link to the file; copy direct link to the file);\n— Black splash screen on night theme;\n— Fixed setCanceledOnTouchOutside.\n",
 	"link": "https://gvwhatasapp.blogspot.com"
 }
